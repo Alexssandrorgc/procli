@@ -49,19 +49,6 @@ El sistema está diseñado para facilitar el control y seguimiento de proyectos 
 * 🧩 Lombok
 * 🧪 Postman (para pruebas)
 
-📁 **Estructura del Proyecto**
-src
-├── controller
-├── dto
-├── entity
-├── repository
-├── service
-├── security
-└── config
-application.properties
-README.md
-
-
 🚀 **Requisitos de Ejecución**
 * ⚙️ Java 17 o superior
 * 📦 Maven 3.8 o superior
